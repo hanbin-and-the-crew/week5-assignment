@@ -2,8 +2,6 @@
 
 ### 과제 개요
 
-과제 수행일 : 2025.11.27
-
 본 과제를 통해 AWS Application Load Balancer(ALB)와 ECS Fargate 기반 서비스가 정상적으로 연동되는지 검증하고,
 실제 장애 상황에서 서비스가 자동 복구되는 과정을 직접 경험합니다.
 
@@ -42,3 +40,7 @@
 테스트 계획 수립 : [docs/ALB_TEST_PLAN.md](https://github.com/hanbin-and-the-crew/week5-assignment/blob/main/docs/ALB_TEST_PLAN.md)
 
 실제 테스트 수행 보고서 : [docs/ALB_TEST_REPORT.md](https://github.com/hanbin-and-the-crew/week5-assignment/blob/main/docs/ALB_TEST_REPORT.md)
+
+
+----
+과제 수행일 : 2025.11.27
