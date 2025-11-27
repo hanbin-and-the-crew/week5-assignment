@@ -37,5 +37,6 @@
 
 
 ### 문서 소개 
-테스트 계획 수립 : docs/ALB_TEST_PLAN.md
+테스트 계획 수립 : [docs/ALB_TEST_PLAN.md](https://github.com/hanbin-and-the-crew/week5-assignment/blob/main/docs/ALB_TEST_PLAN.md)
+
 실제 테스트 수행 보고서 : docs/ALB_TEST_REPORT.md
